@@ -1,4 +1,4 @@
-#[See README.md for more information](https://github.com/deja-monet/IntroToProg-Python-Mod06/blob/main/README.md)
+[See README.md for more information](https://github.com/deja-monet/IntroToProg-Python-Mod06/blob/main/README.md)
 
 [Jupyter Lab (.ipynb) file](https://github.com/deja-monet/IntroToProg-Python-Mod06/blob/main/Assignment06.ipynb)
 
