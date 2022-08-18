@@ -4,4 +4,4 @@
 
 [Python (.py) file](https://github.com/deja-monet/IntroToProg-Python-Mod06/blob/main/Assignment06.py)
 
-[Assignment06 (pdf) file](https://github.com/deja-monet/IntroToProg-Python-Mod06/blob/main/Monet_Deja_FOP-Su2022_Assignment06.pdf)
+[Assignment06 (.pdf) file](https://github.com/deja-monet/IntroToProg-Python-Mod06/blob/main/Monet_Deja_FOP-Su2022_Assignment06.pdf)
